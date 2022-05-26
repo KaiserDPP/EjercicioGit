@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(51, 153, 255);
+    padding: 0 10px;
+}
+
+div {
+line-height: 0.2;
+padding: 0 10px;
+margin: 15px;
+}
+h1
+{
+    color: antiquewhite;
+
+}
+h2
+{
+    color: antiquewhite;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+nav a {
+
+    color: antiquewhite;
+    padding: 0 30px;
+    text-decoration: none;
+}
+
