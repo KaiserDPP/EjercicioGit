@@ -1,6 +1,7 @@
 header {
     display: flex;
     justify-content: space-between;
+
     align-items: center;
     background-color: rgb(51, 153, 255);
     padding: 0 0 10 15px ;
@@ -8,6 +9,7 @@ header {
 
 div {
 line-height: 0.2;
+
 padding: 0 10px;
 margin: 15px;
 }
